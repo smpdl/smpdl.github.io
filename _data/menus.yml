@@ -1,12 +1,14 @@
 - title: home
   url: /
   external: false
-- title: about
-  url: /about/
-  external: false 
 - title: blog
   url: /archive/
   external: false
 - title: projects
   url: /projects/
   external: false
+- title: about
+  url: /about/
+  external: false 
+
+
